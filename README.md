@@ -3,8 +3,8 @@
 Ferramentas utilizadas:
 
 TypeScript;
-ReactJS
-UI Declarativa / Design System - Chakra UI
+ReactJS;
+UI Declarativa / Design System - Chakra UI.
 
 ## Scripts
 
